@@ -1,0 +1,4 @@
+{
+  "nginx:latest": "nginx@sha256:0d17b565c37bcbd895e9d92315a05c1c3c9a29f762b011a10c54a66cd53c9b31",
+  "postgres:15-alpine": "postgres@sha256:1a84f37a544c4e5114704fb3a0429fecb3a1a67306263de4cb2dcccdb84f30cd"
+}
