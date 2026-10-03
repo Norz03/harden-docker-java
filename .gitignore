@@ -1,0 +1,3 @@
+.gradle/
+**/build/
+/environment/output/
